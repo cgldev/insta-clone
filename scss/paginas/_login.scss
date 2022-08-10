@@ -1,0 +1,39 @@
+.caja {
+  background: #fff;
+  border: 1px solid #e6e6e6;
+}
+
+.columna-derecha {
+  @extend .caja;
+  padding: 40px;
+}
+
+.info {
+  font-weight: 600;
+  line-height: 20px;
+  font-size: 17px;
+  color: $color-gris;
+}
+
+.texto-o {
+  font-size: 13px;
+  color: $color-gris;
+  font-weight: 600;
+}
+
+.terms {
+  line-height: 18px;
+  font-size: 14px;
+  color: $color-gris;
+}
+
+.columna-derecha-login {
+  @extend .caja;
+  padding: 20px;
+
+  a {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}

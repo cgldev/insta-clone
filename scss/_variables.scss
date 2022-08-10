@@ -1,0 +1,19 @@
+/*Variables propias*/
+$color-gris: #999;
+$color-azul: #3897f0;
+
+/*Reemplazo valores de variables de Bootstrap*/
+
+/*General*/
+$body-bg: #fafafa;
+$blue: $color-azul;
+/*Botones*/
+$btn-padding-y: 12px;
+$btn-padding-x: 12px;
+$btn-font-weight: 600;
+/*Inputs*/
+$input-font-size: 12px;
+$input-border-color: #efefef;
+$input-placeholder-color: $color-gris;
+$input-focus-border-color: #000;
+$input-focus-box-shadow: 0 0 0 0.25rem rgba(153, 153, 153, 0.2);
