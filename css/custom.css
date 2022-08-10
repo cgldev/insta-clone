@@ -10,13 +10,12 @@
     display: none;
   }
 }
-.caja, .columna-derecha-login, .columna-derecha {
+.caja {
   background: #fff;
   border: 1px solid #e6e6e6;
 }
-
-.columna-derecha {
-  padding: 40px;
+.caja a {
+  text-decoration: none;
 }
 
 .info {
@@ -36,13 +35,6 @@
   line-height: 18px;
   font-size: 14px;
   color: #999;
-}
-
-.columna-derecha-login {
-  padding: 20px;
-}
-.columna-derecha-login a:hover {
-  text-decoration: none;
 }
 
 /*!
