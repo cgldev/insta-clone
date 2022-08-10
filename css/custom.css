@@ -19,8 +19,6 @@ i.lead {
 }
 
 .info {
-  font-weight: 600;
-  line-height: 20px;
   font-size: 17px;
   color: #999;
 }
@@ -28,11 +26,9 @@ i.lead {
 .texto-o {
   font-size: 13px;
   color: #999;
-  font-weight: 600;
 }
 
 .terms {
-  line-height: 18px;
   font-size: 14px;
   color: #999;
 }
