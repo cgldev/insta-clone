@@ -33,6 +33,17 @@ i.lead {
   color: #999;
 }
 
+.seccion-publi {
+  padding: 6rem 0;
+}
+
+.imagen-perfil {
+  background-image: url(../../imgs/perfil.jpg);
+  background-size: cover;
+  width: 3rem;
+  height: 3rem;
+}
+
 /*!
  * Bootstrap  v5.2.0 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
