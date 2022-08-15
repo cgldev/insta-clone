@@ -38,7 +38,7 @@ i.lead {
 }
 
 .imagen-perfil {
-  background-image: url(../../imgs/perfil.jpg);
+  background-image: url(../imgs/perfil.jpg);
   background-size: cover;
   width: 3rem;
   height: 3rem;
