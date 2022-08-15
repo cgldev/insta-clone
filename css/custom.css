@@ -44,6 +44,13 @@ i.lead {
   height: 3rem;
 }
 
+.imagen-perfil-usu {
+  background-image: url(../imgs/perfil-cgldev.jpg);
+  background-size: cover;
+  width: 3rem;
+  height: 3rem;
+}
+
 .historias {
   height: 190px;
   overflow-x: auto;
